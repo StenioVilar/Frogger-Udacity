@@ -8,4 +8,3 @@ Instructions: Arrows to walk around the map.
 Objective: Cross the map and go through enemies.
 
 Stenio Ramalho Vilar
-https://www.linkedin.com/in/stenio-vilar/
